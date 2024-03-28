@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Object Detection from satellite image**
+- 🔭 I’m currently working on **A PhD research on Improve Object Detection from satellite image using deep learning at Universiti Teknologi Malaysia**
 
 - 📫 How to reach me **binswalih@yahoo.com**
 
