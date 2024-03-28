@@ -8,6 +8,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **A PhD research on Improve Object Detection from satellite image using deep learning at Universiti Teknologi Malaysia**
+- 🔭 **Finished Project-2024** https://bsj.uobaghdad.edu.iq/index.php/BSJ/article/view/9767
+- 🔭 **Finished Project-2020** https://www.ijaemr.com/link/411
 
 - 📫 How to reach me **binswalih@yahoo.com**
 
